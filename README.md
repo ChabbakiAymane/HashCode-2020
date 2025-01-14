@@ -44,3 +44,6 @@ This is followed by L sections describing individual libraries from library 0 to
   - the second line, which contains N_j integers, describing the IDs of the books in the library. Each book ID is listed at most once per library.
 
 The total number of books in all libraries does not exceed 10^6.
+
+---
+For more info, see: [hashcode_2020_online_qualification_round.pdf](https://github.com/ChabbakiAymane/HashCode-2020/blob/main/hashcode_2020_online_qualification_round.pdf)
